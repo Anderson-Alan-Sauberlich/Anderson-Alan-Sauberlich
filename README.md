@@ -14,8 +14,8 @@
 
 - 🔭 I’m currently working with **PHP**, **CSS**, **JavaScript** and **MySQL**.
 - 🌱 Learning **Spring Boot** and **Angular**.
+- 👯 And looking to collaborate on **Linux Kernel** and **Bitcoin Core**.
 - 📫 Reach me on e-mail: andersonalansauberlich@gmail.com
-- 👯 I’m looking to collaborate on **Linux Kernel** and **Bitcoin Core**.
 
 <div align="center">
   <a href="https://github.com/Anderson-Alan-Sauberlich">
